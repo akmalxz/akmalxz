@@ -65,7 +65,6 @@ Replace with your actual repo names once pinned. Example format below.
 ### 📊 GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akmalxz&show_icons=true&theme=default&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmalxz&hide_border=true" height="165" />
 </p>
 
