@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akmal 👋</h1>
-<h3 align="center">Data Engineer @ National Big Data Analytics Centre (NBDAC), DOSM Malaysia</h3>
+<h3 align="center">Data Engineer @ National Big Data Analytics Centre (NBDAC), DOSM</h3>
 
 <p align="center">
   I build ETL pipelines, data models, and analytics tools that turn messy government and public datasets
@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/m-akmal-hakim">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:muhammadakmal2490@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
